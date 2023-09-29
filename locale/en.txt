@@ -1,0 +1,23 @@
+#: locale=en
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_F39303C9_E14E_3425_41E1_FE80016975F3.url = https://nimlokdata.co.uk/FirstSentier/Gem%20Hunter/
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_EFB5F8CC_E14E_3423_41E8_67E8D9F3BAEB.toolTip = Click me!
+
+## Media
+
+### Title
+panorama_EABB1D7B_E14A_0CE5_41E0_017925BC4C54.label = SWMroomcam6_A
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Nimlok
