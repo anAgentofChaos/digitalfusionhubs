@@ -4,6 +4,9 @@
 
 ### URL
 PopupWebFrameBehaviour_F39303C9_E14E_3425_41E1_FE80016975F3.url = https://nimlokdata.co.uk/FirstSentier/Gem%20Hunter/
+PopupWebFrameBehaviour_F7137942_E69B_4F5E_41E5_3BA5D8A5C0FE.url = https://www.linkedin.com/in/alexzolnerciks/
+PopupWebFrameBehaviour_F7EBF77A_E699_432E_41E0_80C3AB736527.url = https://www.linkedin.com/in/jamesrook/
+PopupWebFrameBehaviour_F7D1B049_E698_BD6A_41E8_4B8A7DE27471.url = https://www.linkedin.com/in/r-newell/
 
 ## Hotspot
 
@@ -28,12 +31,13 @@ imlevel_F46F8AC6_E5E1_757B_41EC_8EE74BA15C30.url = media/popup_F6FCE3F9_E59F_1B0
 ### Title
 panorama_EAEE220C_E16B_085C_41D4_22F3F50742F5.label = Bio_Landscape_fant_skybox
 panorama_F6A05E15_E5A1_0D19_41CE_17BF7D136AD1.label = SWMroomcam3
+panorama_E92C4C7D_E699_452A_41E7_3559CC3B4559.label = SWMroomcam4
 panorama_EABB1D7B_E14A_0CE5_41E0_017925BC4C54.label = SWMroomcam6_A
 video_F4ECBC1D_E5A7_0D09_41DA_FD3ECB431D8A.label = Screen Recording 2023-09-30 at 11.38.20
 
 ### Video
-videolevel_F43725E7_E5E1_3F39_41E0_194C79C551F0.url = media/video_F4ECBC1D_E5A7_0D09_41DA_FD3ECB431D8A_en.mp4
-videolevel_F43725E7_E5E1_3F39_41E0_194C79C551F0.posterURL = media/video_F4ECBC1D_E5A7_0D09_41DA_FD3ECB431D8A_poster_en.jpg
+videolevel_F734287B_E699_CD2E_41D6_500CD85EAF18.url = media/video_F4ECBC1D_E5A7_0D09_41DA_FD3ECB431D8A_en.mp4
+videolevel_F734287B_E699_CD2E_41D6_500CD85EAF18.posterURL = media/video_F4ECBC1D_E5A7_0D09_41DA_FD3ECB431D8A_poster_en.jpg
 
 ### Video Subtitles
 
